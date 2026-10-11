@@ -15,3 +15,5 @@ Output Image
 Result
 
 Edge detection was performed successfully using Python and OpenCV.
+
+**G. Balaji**
