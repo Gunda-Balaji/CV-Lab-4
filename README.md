@@ -16,4 +16,4 @@ Result
 
 Edge detection was performed successfully using Python and OpenCV.
 
-**G. Balaji**
+**Author:** G. Balaji
